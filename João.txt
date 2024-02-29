@@ -1,0 +1,50 @@
+doskey /h >> joa.txt
+ren joa.txt jo∆o.txt
+ren jo∆o.txt trabalhos
+cd Documentos
+copy con Projetos 
+pessoais
+C:\Users\Aluno\Desktop>copy con pessoais
+dir
+del Projetos
+dir
+md Documentos
+cd Documentos
+mkdir Projetos 
+mkdir Pessoais 
+move ../Trabalhos Documentos
+move trabalhos documentos
+md
+cd..
+move trabalhos Documentos
+dir
+ren Atividades01 trabalhos
+ren Atividade01 trabalhos
+ren trabalhos Documnetos 
+dir
+ren Documentos trabalhos
+move trabalhos Documentos
+md
+cd Documentos
+trabalho
+mkdir trabalho
+cd..
+mova trabalho Documentos
+move trabalho Documentos
+trabalhos Documentos
+move trabalho Documentos
+dir
+move Backup
+cd Documentos
+ren Pessoais Lazer
+ren Pessoias Projeto
+ren Pessoais Projeto
+cd Lazer
+copy con Viagem.txt
+Franáa
+Italia
+grecia
+Estados Unidos 
+Egito  
+doskey /h
+doskey /h >> Jo∆o.txt
